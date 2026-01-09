@@ -37,3 +37,8 @@ Power Query (ETL process) was used for data cleaning and transformation, and Mic
 1. Increase safety stock levels for high-rotation categories (Beverages, Snacks) to eliminate mid-week stockouts.
 2. Shorten Lead Times or adjust order frequency during business days.
 3. Implement promotional activities for the Home Care category to boost sales volume while maintaining its current margin.
+
+# Data
+
+Orginal csv file is too large for attaching it to this repository. Here is a link to that data.
+https://www.kaggle.com/datasets/robertocarlost/fmcg-multi-country-sales-dataset
